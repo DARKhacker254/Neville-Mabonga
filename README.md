@@ -61,12 +61,6 @@ Everything I create is designed for **performance, clarity, and longevity**.
 🌐 **Portfolio:** https://docs.google.com/presentation/d/1zLcxwQTYFA9seX7lc-dsL4AimKfDoBXQpnEq1DlYi9M/edit?usp=drive_link
 💼 **LinkedIn:** [linkedin.com/in/nevillewekesa](https://linkedin.com/in/nevillewekesa
 
----
-
-<p align="center">
-  <em>Code with purpose. Build with precision. Deliver with integrity.</em>
-</p>
-
 
 ---
 
